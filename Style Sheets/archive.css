@@ -1,0 +1,27 @@
+h3 {
+    color: black;
+    text-align: center;
+    margin-top: 25%;
+    font-family: roc-grotesk;
+    font-weight: 500;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+p a {
+    color: black;
+    margin-top: 0;
+    font-family: roc-grotesk;
+    font-weight: 400;
+    font-size: small;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: #00973F;
+    text-decoration: none;
+    transition: 0.5s;
+}
